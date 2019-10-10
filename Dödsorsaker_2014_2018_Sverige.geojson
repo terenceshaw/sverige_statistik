@@ -1,4 +1,4 @@
-lett arr = [{
+let arr = [{
 "type": "FeatureCollection",
 "name": "Dödsorsaker_2014_2018_Sverige",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
